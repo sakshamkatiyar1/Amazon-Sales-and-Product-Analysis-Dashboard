@@ -50,6 +50,6 @@ This dashboard uses data stored in **Excel files** exported from Amazon sales re
 
 ## Screenshot
 
-[Dashboard Preview]()
+[Dashboard Preview](https://github.com/sakshamkatiyar1/Amazon-Sales-and-Product-Analysis-Dashboard/blob/main/Amazon%20Sales%20and%20Product%20Dashboard%20Screenshot%20-%20Power-BI.png)
 
 
