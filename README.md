@@ -1,4 +1,4 @@
-# Amazon Sales Review Dashboard
+# Amazon Sales and Product Dashboard
 ## Project Description
 
 An interactive Power BI dashboard built to analyze and visualize sales performance data of Amazon products. This dashboard provides key insights into yearly and quarterly sales, sales trends over time, top selling products, sales distribution across product categories, and customer review performance.
