@@ -48,5 +48,8 @@ This dashboard uses data stored in **Excel files** exported from Amazon sales re
 - `QTR Sales` – Quarterly sales measure  
 - `TotalReviews` – Number of reviews
 
+## Screenshot
+
+[Dashboard Preview]()
 
 
